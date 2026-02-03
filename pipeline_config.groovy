@@ -1,7 +1,7 @@
 library_sources {
   github {
     org = "TJMS122325"
-    repo = "jenkins-jte-template"
+    repo = "jenkins-jte-libraries"
     branch = "main"
   }
 }
